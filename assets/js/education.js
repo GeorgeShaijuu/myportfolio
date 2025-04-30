@@ -118,9 +118,6 @@ const showCards = () => {
                <div class="content">
                   <div class="content-overlay"></div>
                     <img src=${cardImage} class="card-img-top content-image">     
-                  <div class="content-details fadeIn-bottom">
-                    <a href="${moocLink}" target="_blank"><i class="fa fa-info-circle fa-2x" aria-hidden="true" style="color: white;"></i></a>                                   
-                  </div>
                 </div>
                 <div class="card-body">
                     <h6 class="mt-0 py-2 text-center font-weight-bold mooc-title" style="font-size:12px;">${title}</h6>
